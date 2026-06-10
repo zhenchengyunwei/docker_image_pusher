@@ -1,1 +1,2 @@
-jumpserver/core:v4.10.16-ce
+postgres:16
+redis:8.6.4
