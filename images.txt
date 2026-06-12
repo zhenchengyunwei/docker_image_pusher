@@ -1,5 +1,1 @@
-jumpserver/core:v4.10.16-ce
-jumpserver/chen:v4.10.16-ce
-jumpserver/koko:v4.10.16-ce
-jumpserver/lion:v4.10.16-ce
-jumpserver/web:v4.10.16-ce
+minio/minio:latest
