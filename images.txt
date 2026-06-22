@@ -1,1 +1,1 @@
-mysql:8.4.10
+powerdnsadmin/pda-legacy:latest
