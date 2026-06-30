@@ -1,2 +1,1 @@
-node:22.23.1-alpine
-node:23.11.1-alpine
+alpine/git:v2.54.0
